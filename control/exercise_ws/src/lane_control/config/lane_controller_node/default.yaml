@@ -4,5 +4,5 @@
 look_ahead: 0.25
 v_max: 0.4
 v_min: 0.1
-k: 2.5
+k: 3
 use_k: true
