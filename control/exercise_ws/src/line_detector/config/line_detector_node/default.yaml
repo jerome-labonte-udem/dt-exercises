@@ -17,7 +17,7 @@ top_cutoff: 40
 colors:
   RED:
     low_1: [0,140,100]
-    high_1: [15,255,255]
+    high_1: [10,255,255]
     low_2: [165,140,100]
     high_2: [180,255,255]
   WHITE:
@@ -26,7 +26,6 @@ colors:
   YELLOW:
     low: [15,80,50]
     high: [33,255,255]
-
 line_detector_parameters:
   canny_thresholds: [80,200]
   canny_aperture_size: 3
