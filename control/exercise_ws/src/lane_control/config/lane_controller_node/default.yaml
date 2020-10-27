@@ -2,7 +2,7 @@
 
 ## ADD CONFIGS HERE
 look_ahead: 0.25
-v_max: 0.4
+v_max: 0.5
 v_min: 0.1
 k: 2.5
 use_k: true
